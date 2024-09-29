@@ -1,5 +1,6 @@
 React movie search app that allows you to search movies and TV series by title. Also implemented a filter - display movies, display TV series or display all. This application sends GET requests to a database of movies.
-***HOW TO USE:***
+
+**HOW TO USE:**
 1. Download this repo and extract
 Write the following commands in terminal:
 3. npm install
